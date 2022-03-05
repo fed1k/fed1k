@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **allamurotovcoder@mail.ru**
 
-- ⚡ Fun fact **I like playing video games but I do not**
+- ⚡ Fun fact **I like playing video games but I do not*😭*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
