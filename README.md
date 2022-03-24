@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/fed1k/Personal-Portfolio.github.io)
+- 🔭 I’m currently working on [To-do-list](https://github.com/fed1k/To-do-list/tree/main)
 
 - 🌱 I’m currently learning **Javascript, React & Redux, Ruby, Ruby on Rails, PostgreSql**
 
