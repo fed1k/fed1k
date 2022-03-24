@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firdavs Allamurotov</h1>
 <h3 align="center">A future full-stack developer from Uzbekistan</h3>
-![](https://github.com/fed1k/fed1k/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966.gif)
+![Dev](https://github.com/fed1k/fed1k/blob/main/google.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed1k&label=Profile%20views&color=0e75b6&style=flat" alt="fed1k" /> </p>
 
