@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Firdavs Allamurotov</h1>
 <h3 align="center">A future full-stack developer from Uzbekistan</h3>
-![Dev](https://github.com/fed1k/fed1k/blob/main/google.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fed1k&label=Profile%20views&color=0e75b6&style=flat" alt="fed1k" /> </p>
+
+<p align="left"> <img src="https://github.com/fed1k/fed1k/blob/main/google.gif" alt="fed1k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fed1k" alt="fed1k" /></a> </p>
 
