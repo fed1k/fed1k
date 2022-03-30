@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **allamurotovcoder@mail.ru**
 
-- ⚡ Fun fact ** I have no idea why i'm here😂😂😂😂😂
+- ⚡ Fun fact ** There is no fun fact about me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
