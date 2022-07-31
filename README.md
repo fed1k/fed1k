@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fed1k/Personal-Portfolio.github.io](https://github.com/fed1k/Personal-Portfolio.github.io)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **JavaScript, React, Ruby, Ruby on Rails, PostgreSQL, Testing**
 
 - 📫 How to reach me **allamurotovcoder@mail.ru**
 
